@@ -34,6 +34,8 @@ This will open your webcam and apply a **sharpen filter** by default along with 
 
 The Toggles are 'OFF' by default to reduce the workload on your computer. To turn them 'ON', please refer the info chart on the overlay.
 
+You will also need OBS Studio with a virtual camera source to run the Virtual Camera <- which you can use in Discord or other applications.
+
 ---
 
 ## 🎨 Filters

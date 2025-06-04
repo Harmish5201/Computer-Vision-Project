@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 22 11:58:41 2021
-
-@author: droes
-"""
-
 import pyvirtualcam
 import numpy as np
 import cv2 # conda install opencv

@@ -70,5 +70,5 @@ The project includes a `dog_ears.png` file used for adding a dog ear overlay usi
 
 ## 👨🏻‍💻 Credits
 
-Harmish Tanna : harmishhtanna@gmail.com
+Harmish Tanna : harmishhtanna@gmail.com <br>
 Adil Ahmed : ada3971@thi.de

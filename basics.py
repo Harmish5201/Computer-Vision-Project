@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon May  3 19:18:29 2021
-
-@author: droes
-"""
 from numba import njit # conda install numba
 import numpy as np
 import cv2

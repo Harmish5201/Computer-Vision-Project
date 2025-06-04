@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 22 13:18:55 2021
-
-@author: droes
-"""
-
 import numpy as np
 import cv2 # conda install opencv
 from matplotlib import pyplot as plt # conda install matplotlib
